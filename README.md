@@ -23,7 +23,7 @@ This scene has three buttons:
 #### GAME SCENE
 REPRESENTATIONS
 
-In the screen you will see two red cubes that represent the wrists, two black cubes that represent the left and right side of the hip, and two black cubes that represent the knees. The nose is represented with a smiling emoji.
+In the screen you will see two red cubes that represent the wrists, two white cubes that represent the left and right side of the hip, and two black cubes that represent the knees. The nose is represented with a smiling emoji.
 
 WHAT TO DO?
  
